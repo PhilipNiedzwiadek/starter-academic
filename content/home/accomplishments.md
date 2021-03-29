@@ -50,7 +50,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Analyze Data with SQL Skill Path
-  url: "
+  url: ""
  
 - certificate_url: 
   date_end: ""
@@ -59,7 +59,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Build a Website with HTML, CSS, and Github Pages Skill Path
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -68,7 +68,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Learn Bootstrap Course
-  url: "
+  url: ""
 
 - certificate_url: 
   date_end: ""
@@ -77,7 +77,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Learn HTML Course
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -86,7 +86,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Learn Data Analysis with Pandas Course
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -95,7 +95,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Learn Statistics with Python Course
-  url: "
+  url: ""
 
 - certificate_url: 
   date_end: ""
@@ -104,7 +104,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Learn Python 3 Course
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -113,7 +113,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.com/
   title: Learn the Command Line Course
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -122,7 +122,7 @@ item:
   organization: Bloomberg LP
   organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
   title: Bloomberg Essential Market Sector Exams - Commodity Essentials
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -131,7 +131,7 @@ item:
   organization: Bloomberg LP
   organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
   title: Bloomberg Essential Market Sector Exams - Equity Essentials
-  url: "
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -140,5 +140,5 @@ item:
   organization: Bloomberg LP
   organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
   title: Bloomberg Essential Market Sector Exams - Foreign Exchange Essentials
-  url: "
+  url: ""
 ---
