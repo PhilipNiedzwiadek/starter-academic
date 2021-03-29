@@ -99,8 +99,8 @@ experience:
     company: City of Ottawa, Canterbury Recreation Complex
     company_url: https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/canterbury-recreation-complex
     location: Ottawa, ON
-    date_start: '2016-06-01'
-    date_end: '2019-09-30'
+    date_start: '2008-09-01'
+    date_end: '2018-09-30'
     description: |2-
         Responsibilities included:
        
