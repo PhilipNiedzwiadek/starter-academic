@@ -23,28 +23,122 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+
+- certificate_url: 
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-12-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Analyze Financial Data with Python Skill Path
   url: ""
-- certificate_url: https://www.edx.org
+  
+
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2020-11-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: How to Analyze Business Metrics with SQL Course
   url: ""
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-10-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Analyze Data with SQL Skill Path
+  url: "
+ 
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-09-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Build a Website with HTML, CSS, and Github Pages Skill Path
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-09-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Learn Bootstrap Course
+  url: "
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-09-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Learn HTML Course
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-08-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Learn Data Analysis with Pandas Course
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-08-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Learn Statistics with Python Course
+  url: "
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-08-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Learn Python 3 Course
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-08-01"
+  description: ""
+  organization: Codecademy
+  organization_url: https://www.codecademy.com/
+  title: Learn the Command Line Course
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2015-04-01"
+  description: ""
+  organization: Bloomberg LP
+  organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
+  title: Bloomberg Essential Market Sector Exams - Commodity Essentials
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2015-04-01"
+  description: ""
+  organization: Bloomberg LP
+  organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
+  title: Bloomberg Essential Market Sector Exams - Equity Essentials
+  url: "
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2015-04-01"
+  description: ""
+  organization: Bloomberg LP
+  organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
+  title: Bloomberg Essential Market Sector Exams - Foreign Exchange Essentials
+  url: "
 ---
