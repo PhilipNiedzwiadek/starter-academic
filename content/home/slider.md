@@ -6,7 +6,7 @@ height: 500px
 item:
   - title: Professional Accountant
     align: center
-    overlay_img: media/sedona.JPG
+    overlay_img: media/Sedona.jpg
     overlay_filter: 0
   - title: Amateur Programmer
     align: left
