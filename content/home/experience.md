@@ -35,8 +35,6 @@ experience:
         * Modelling
         * Deploying
          
-         
-Senior Staff Accountant Jan
         
   - title: Professor
     company: University X
