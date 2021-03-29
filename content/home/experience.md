@@ -22,18 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Senior Financial Analyst
+    company: The Conference Board of Canada
+    company_url: https://www.conferenceboard.ca/
+    location: Ottawa, ON
+    date_start: '2021-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+         • Prepare yearly budget, monthly forecasts and cash flow analyses for the corporate departments then following up monthly with financial reports, variance analyses and            a review of KPIs; monthly risk and scenario analyses were included after the COVID-19 outbreak
+         • Supporting financial month end and year end audits by validating departments’ monthly closure by creating and reviewing entries (accruals, adjustments and fixed asset            depreciation) and preparing account reconciliation on a monthly basis for specific accounts
+         • Closing out our Niagara satellite office in the wake of the COVID-19 economic downturn by recognizing remaining project revenues, resolving remaining liabilities,                reconciling deferred revenues, writing-off remaining assets and coordinating delivery of remaining records and assets back to the Ottawa head office
+         • Lead the weekly integration of ERP (MS D365) and CRM systems (iMIS) and troubleshoot integration errors
+         • Leading my team in requirements gathering for a new CRM system and Financial Planning and Analysis (FP&A) tool, and currently leading the implementation for the FP&A            tool
+         • Test and validate MS D365 improvements in the testing environments and ensure that they have been transferred to production successfully
+         • Assist in leading the finance team in executing the semi-annual MS D365 Finance & Operations ERP upgrade
+         • Identify issues and implement improvements to streamline accounting processes, leading to system design changes
+         
+         
+Senior Staff Accountant Jan
         
   - title: Professor
     company: University X
