@@ -28,6 +28,14 @@ experience:
     location: Ottawa, ON
     date_start: '2021-04-01'
     date_end: ''
+    description: Role just started! The intention is to have a greater focus on project revenue management for a specific portolio while also being the lead for the implemention of our new FP&A tool 
+    
+  - title: Systems Analyst / Corporate Financial Analyst
+    company: The Conference Board of Canada
+    company_url: https://www.conferenceboard.ca/
+    location: Ottawa, ON
+    date_start: '2021-03-31'
+    date_end: '2019-07-01'
     description: |2-
         Responsibilities include:
         
