@@ -121,7 +121,7 @@ item:
   description: ""
   organization: Chartered Professional Accountants of Ontario
   organization_url: https://www.cpacanada.ca/
-  title: Chartered Professional Accountant
+  title: Chartered Professional Accountant (CPA)
   url: ""
 
 - certificate_url: https://myportal.cpaontario.ca/s/member-directory
