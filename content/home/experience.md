@@ -65,6 +65,19 @@ experience:
         * Performing management inquiry, analytical procedures, and a variety of audit testing for review and audit engagements
         * Peer coaching sessions for completion for notice to reader engagements, corporate tax filing and personal tax filing
 
+  - title: Bookkeeper
+    company: Laurier Optical
+    company_url: https://www.laurier-optical.com/
+    location: Ottawa, ON
+    date_start: '2016-06-01'
+    date_end: '2016-12-31'
+    description: |2-
+        Responsibilities included:
+        
+        * Reconcile and post journal entries for daily sales and bank deposits in Sage accounting software
+        * Researching and complying to CRA sales tax regulations to thereafter calculate and file HST/GST and QST returns
+        * Performing bank reconciliations using Sage accounting software and following up on any discrepancies
+        * Keeping well organized electronic and physical records for future financial audits
 
   - title: Compliance Officer
     company: Canada Revenue Agency, Debt Management Call Centre
