@@ -52,7 +52,7 @@ item:
   title: Analyze Data with SQL Skill Path
   url: ""
  
-- certificate_url: uploads/certificates/Build a Website with HTML, CSS, and Github Pages Skill Path.pdf
+- certificate_url: uploads/certificates/Build a Website with HTML, CSS, and Github.pdf
   date_end: ""
   date_start: "2020-09-01"
   description: ""
@@ -97,7 +97,7 @@ item:
   title: Learn Statistics with Python Course
   url: ""
 
-- certificate_url: uploads/certificates/Learn Python 3 Course.pdf 
+- certificate_url: uploads/certificates/Learn Python 3.pdf 
   date_end: ""
   date_start: "2020-08-01"
   description: ""
