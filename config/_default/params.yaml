@@ -38,18 +38,18 @@ twitter: ''
 #  - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link: 'live:philip.niedzwiadek_1'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
@@ -109,7 +109,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: oval
 publications:
   date_format: January 2006
   citation_style: apa
