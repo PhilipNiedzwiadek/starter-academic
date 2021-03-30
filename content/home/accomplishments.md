@@ -114,15 +114,24 @@ item:
   organization_url: https://www.codecademy.com/
   title: Learn the Command Line Course
   url: ""
-  
-- certificate_url: 
+
+- certificate_url: https://myportal.cpaontario.ca/s/member-directory
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: Chartered Professional Accountants of Ontario
+  organization_url: https://www.cpacanada.ca/
+  title: Chartered Professional Accountant
+  url: ""
+
+- certificate_url: https://myportal.cpaontario.ca/s/member-directory
   date_end: ""
   date_start: "2015-04-01"
   description: ""
   organization: Bloomberg LP
   organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
   title: Bloomberg Essential Market Sector Exams - Commodity Essentials
-  url: ""
+  url: 
   
 - certificate_url: 
   date_end: ""
