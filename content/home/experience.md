@@ -39,12 +39,12 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Prepare yearly budget, monthly forecasts and cash flow analyses for the corporate departments then following up monthly           with financial reports, variance analyses and a review of KPIs; monthly risk and scenario analyses were included after             the COVID-19 outbreak
-        * Supporting financial month end and year end audits by validating departments’ monthly closure by creating and reviewing           entries (accruals, adjustments and fixed asset depreciation) and preparing account reconciliation on a monthly basis for           specific accounts
-        * Closing out our Niagara satellite office in the wake of the COVID-19 economic downturn by recognizing remaining project           revenues, resolving remaining liabilities, reconciling deferred revenues, writing-off remaining assets and coordinating           delivery of remaining records and assets back to the Ottawa head office
+        * Prepare yearly budget, monthly forecasts and cash flow analyses for the corporate departments then following up monthly with financial reports, variance analyses and a review of KPIs; monthly risk and scenario analyses were included after the COVID-19 outbreak
+        * Supporting financial month end and year end audits by validating departments’ monthly closure by creating and reviewing entries (accruals, adjustments and fixed asset depreciation) and preparing account reconciliation on a monthly basis for specific accounts
+        * Closing out our Niagara satellite office in the wake of the COVID-19 economic downturn by recognizing remaining project revenues, resolving remaining liabilities, reconciling deferred revenues, writing-off remaining assets and coordinating delivery of remaining records and assets back to the Ottawa head office
         * Lead the weekly integration of ERP (MS D365) and CRM systems (iMIS) and troubleshoot integration errors
-        * Leading my team in requirements gathering for a new CRM system and Financial Planning and Analysis (FP&A) tool, and               currently leading the implementation for the FP&A tool
-        * Test and validate MS D365 improvements in the testing environments and ensure that they have been transferred to                   production successfully
+        * Leading my team in requirements gathering for a new CRM system and Financial Planning and Analysis (FP&A) tool, and currently leading the implementation for the FP&A tool
+        * Test and validate MS D365 improvements in the testing environments and ensure that they have been transferred to production successfully
         * Assist in leading the finance team in executing the semi-annual MS D365 Finance & Operations ERP upgrade
         * Identify issues and implement improvements to streamline accounting processes, leading to system design changes
          
@@ -59,15 +59,15 @@ experience:
         Responsibilities included:
         
         * Apply a general knowledge of Canadian GAAP (ASPE & ASNFPO)
-        * Using Caseware to complete notice to reader compliance engagements, review engagements and audit engagements from start           to finish
-        * Reconciling accounts in every accounting cycle, correcting errors and misstatements, and following up with clients of             discrepancies
+        * Using Caseware to complete notice to reader compliance engagements, review engagements and audit engagements from start to finish
+        * Reconciling accounts in every accounting cycle, correcting errors and misstatements, and following up with clients of discrepancies
         * Completing personal, corporate and sales tax returns, and maintaining and referencing the working paper files
         * Performing management inquiry, analytical procedures, and a variety of audit testing for review and audit engagements
         * Peer coaching sessions for completion for notice to reader engagements, corporate tax filing and personal tax filing
 
 
-  - title: Bookkeeper
-    company: Laurier Optical
+  - title: Compliance Officer
+    company: Canada Revenue Agency, Debt Management Call Centre
     company_url: https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/internal-audit-program-evaluation/internal-audit-program-evaluation-reports-2010/debt-management-call-centre-evaluation.html
     location: Ottawa, ON
     date_start: '2013-05-01'
@@ -75,9 +75,9 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Educate the taxpayer through a service oriented rehabilitative approach in order to obtain good filing and payment                 habits in the future
-        * Arrange for the filing of any outstanding GST return(s) and obtain payment in full of any outstanding or anticipated               balances
-        * Recognize accounts requiring complex actions and referring these accounts to the appropriate Tax Services Office or               National Pool
+        * Educate the taxpayer through a service oriented rehabilitative approach in order to obtain good filing and payment habits in the future
+        * Arrange for the filing of any outstanding GST return(s) and obtain payment in full of any outstanding or anticipated balances
+        * Recognize accounts requiring complex actions and referring these accounts to the appropriate Tax Services Office or National Pool
         * Provide information about the taxpayers’ responsibilities
 
   - title: Treasurer of the Board of Directors
@@ -89,11 +89,11 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Chairing the finance committee, which includes creating an annual budget, implementing cost savings and surplus                   generating initiatives, and evaluating the effectiveness of internal controls
+        * Chairing the finance committee, which includes creating an annual budget, implementing cost savings and surplus generating initiatives, and evaluating the effectiveness of internal controls
         * Acting as a signing authority for any payments and fixed income market investments
-        * Using QuickBooks to perform accounts payable, accounts receivable and payroll functions, and reports to inform the Board           at each meeting on finance related matters
+        * Using QuickBooks to perform accounts payable, accounts receivable and payroll functions, and reports to inform the Board at each meeting on finance related matters
         * Representing the Corporation to the auditors, bookkeepers, banks, lawyers and any other financial resources
-        * Filing all relevant documentation with Corporations Canada to attain a Non-for-Profit Organization status; this includes           making changes to the By-Laws and the Constitution then presenting them to the Board for approval
+        * Filing all relevant documentation with Corporations Canada to attain a Non-for-Profit Organization status; this includes making changes to the By-Laws and the Constitution then presenting them to the Board for approval
 
   - title: Head Lifeguard / Swim & Lifesaving Instructor 
     company: City of Ottawa, Canterbury Recreation Complex
@@ -106,8 +106,8 @@ experience:
        
         * Supervisor on shift; responsible for overseeing up to six lifeguards or instructors
         * Responsible for teaching all ages water safety, swimming, diving, lifesaving, first aid, and aqua fitness
-        * Ensuring that all safety standards are followed, solving administrative problems, addressing client concerns and                   complaints, and mentoring and training new inexperienced employees
-        * Processing regular admission payments and registrations; documenting the float balance at the beginning and ending of             each shift
+        * Ensuring that all safety standards are followed, solving administrative problems, addressing client concerns and complaints, and mentoring and training new inexperienced employees
+        * Processing regular admission payments and registrations; documenting the float balance at the beginning and ending of each shift
         * Team leader; emphasis on strong teamwork and leadership skills in a high stress environment
 
 ---
