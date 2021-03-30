@@ -2,7 +2,7 @@
 widget: slider
 interval: 6000
 active: true
-height: 500px
+height: 400px
 item:
   - title: Professional Accountant
     align: center
