@@ -124,7 +124,7 @@ item:
   title: Chartered Professional Accountant (CPA)
   url: ""
 
-- certificate_url: https://myportal.cpaontario.ca/s/member-directory
+- certificate_url: uploads/certificates/Bloomberg Essential Market Sector Exams - Commodity Essentials.pdf 
   date_end: ""
   date_start: "2015-04-01"
   description: ""
@@ -133,7 +133,7 @@ item:
   title: Bloomberg Essential Market Sector Exams - Commodity Essentials
   url: 
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Bloomberg Essential Market Sector Exams - Equity Essentials.pdf
   date_end: ""
   date_start: "2015-04-01"
   description: ""
@@ -142,7 +142,7 @@ item:
   title: Bloomberg Essential Market Sector Exams - Equity Essentials
   url: ""
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Bloomberg Essential Market Sector Exams - FX Essentials.pdf
   date_end: ""
   date_start: "2015-04-01"
   description: ""
