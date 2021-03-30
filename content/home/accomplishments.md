@@ -34,7 +34,7 @@ item:
   url: ""
   
 
-- certificate_url: 
+- certificate_url: uploads/certificates/How to Analyze Business Metrics with SQL Course.pdf
   date_end: ""
   date_start: "2020-11-01"
   description: ""
@@ -43,7 +43,7 @@ item:
   title: How to Analyze Business Metrics with SQL Course
   url: ""
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Analyze Data with SQL Skill Path.pdf
   date_end: ""
   date_start: "2020-10-01"
   description: ""
@@ -52,7 +52,7 @@ item:
   title: Analyze Data with SQL Skill Path
   url: ""
  
-- certificate_url: 
+- certificate_url: uploads/certificates/Build a Website with HTML, CSS, and Github Pages Skill Path.pdf
   date_end: ""
   date_start: "2020-09-01"
   description: ""
@@ -61,7 +61,7 @@ item:
   title: Build a Website with HTML, CSS, and Github Pages Skill Path
   url: ""
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Learn Bootstrap Course.pdf
   date_end: ""
   date_start: "2020-09-01"
   description: ""
@@ -70,7 +70,7 @@ item:
   title: Learn Bootstrap Course
   url: ""
 
-- certificate_url: 
+- certificate_url: uploads/certificates/Learn HTML Course.pdf
   date_end: ""
   date_start: "2020-09-01"
   description: ""
@@ -79,7 +79,7 @@ item:
   title: Learn HTML Course
   url: ""
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Learn Data Analysis with Pandas Course.pdf 
   date_end: ""
   date_start: "2020-08-01"
   description: ""
@@ -88,7 +88,7 @@ item:
   title: Learn Data Analysis with Pandas Course
   url: ""
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Learn Statistics with Python Course.pdf 
   date_end: ""
   date_start: "2020-08-01"
   description: ""
@@ -97,7 +97,7 @@ item:
   title: Learn Statistics with Python Course
   url: ""
 
-- certificate_url: 
+- certificate_url: uploads/certificates/Learn Python 3 Course.pdf 
   date_end: ""
   date_start: "2020-08-01"
   description: ""
@@ -106,7 +106,7 @@ item:
   title: Learn Python 3 Course
   url: ""
   
-- certificate_url: 
+- certificate_url: uploads/certificates/Learn the Command Line Course.pdf 
   date_end: ""
   date_start: "2020-08-01"
   description: ""
