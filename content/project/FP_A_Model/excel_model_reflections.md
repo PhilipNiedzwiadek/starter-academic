@@ -1,5 +1,5 @@
 ---
-title: Short Comings of the Accountant - Manaement of Data
+title: Short Comings of the Accountant - Mgmt of Data
 summary: Coming soon
 tags:
 - Excel
