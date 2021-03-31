@@ -14,15 +14,13 @@
 
 {{ $columns := $st.Params.design.columns | default "2" }}
 
-<!-- Calendly inline widget begin -->
-<div class="col-12 calendly-inline-widget" data-url="https://calendly.com/philip-niedzwiadek" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
   <div class="row">
-
-    <div class="col-3 order-first calendly-inline-widget" data-url="https://calendly.com/philip-niedzwiadek" style="min-width:320px;height:630px;"></div>
+      <!-- Calendly inline widget begin -->
+      <div class="col-3 order-first calendly-inline-widget" data-url="https://calendly.com/philip-niedzwiadek" style="min-width:320px;height:630px;"></div>
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+      <!-- Calendly inline widget end -->
+    
     
     <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}} order-last">
       {{ with $st.Content }}{{ . }}{{ end }}
