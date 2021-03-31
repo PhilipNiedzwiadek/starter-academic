@@ -123,4 +123,7 @@ experience:
         * Processing regular admission payments and registrations; documenting the float balance at the beginning and ending of each shift
         * Team leader; emphasis on strong teamwork and leadership skills in a high stress environment
 
+
+design:
+  columns: '1'
 ---
