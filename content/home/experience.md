@@ -97,8 +97,8 @@ experience:
     company: Charlatan Publications Inc.
     company_url: https://charlatan.ca/
     location: Ottawa, ON
-    date_start: '2016-08-31'
-    date_end: '2015-05-31'
+    date_start: '2015-05-01'
+    date_end: '2016-08-31'
     description: |2-
         Responsibilities included:
         
