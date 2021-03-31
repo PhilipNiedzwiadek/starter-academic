@@ -150,4 +150,7 @@ item:
   organization_url: https://courses.corporatefinanceinstitute.com/courses/bloomberg-essentials
   title: Bloomberg Essential Market Sector Exams - Foreign Exchange Essentials
   url: ""
+  
+design:
+  columns: '1'
 ---
