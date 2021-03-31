@@ -17,12 +17,12 @@
 
   <div class="row">
       <!-- Calendly inline widget begin -->
-      <div class="col-3 order-first calendly-inline-widget" data-url="https://calendly.com/philip-niedzwiadek" style="min-width:320px;height:630px;"></div>
+      <div class="col-4 order-first calendly-inline-widget" data-url="https://calendly.com/philip-niedzwiadek" style="min-width:320px;height:630px;"></div>
       <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
       <!-- Calendly inline widget end -->
     
     
-      <div class="col-8 {{if eq $columns "2"}}col-lg-8{{end}} order-last">
+      <div class="col-4 {{if eq $columns "2"}}col-lg-4{{end}} order-last">
         {{ with $st.Content }}{{ . }}{{ end }}
         {{ if $use_form }}
 
