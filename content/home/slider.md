@@ -19,7 +19,7 @@ item:
     
   - title: Professional Accountant
     align: left
-    overlay_img: Slider 5 - Endor.JPG
+    overlay_img: slider/Slider 5 - Endor.JPG
     overlay_filter: 0
   - title: Amateur Programmer
     align: center
