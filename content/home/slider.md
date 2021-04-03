@@ -20,14 +20,14 @@ item:
     align: left
     overlay_img: S5-Endor.JPG
     overlay_filter: 0
-#  - title: Amateur Programmer
-#    align: center
-#    overlay_img: Slider 4 - More Ruins.JPG
-#    overlay_filter: 0
-#  - title: Problem Solver
-#    align: right
-#    overlay_img: Slider 6 - Canal.jpg
-#    overlay_filter: 0
+  - title: Amateur Programmer
+    align: center
+    overlay_img: S4-MoreRuins.JPG
+    overlay_filter: 0
+  - title: Problem Solver
+    align: right
+    overlay_img: S6-Canal.jpg
+    overlay_filter: 0
     
 widget_id: slider
 headless: true
