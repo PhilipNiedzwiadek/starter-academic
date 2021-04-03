@@ -20,10 +20,10 @@ item:
     align: left
     overlay_img: S5-Endor.JPG
     overlay_filter: 0
-  - title: Amateur Programmer
-    align: center
-    overlay_img: S4-MoreRuins.JPG
-    overlay_filter: 0
+#  - title: Amateur Programmer
+#    align: center
+#    overlay_img: S4-MoreRuins.JPG
+#    overlay_filter: 0
   - title: Problem Solver
     align: right
     overlay_img: S6-Canal.jpg
