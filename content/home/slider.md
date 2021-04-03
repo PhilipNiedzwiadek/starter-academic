@@ -1,8 +1,8 @@
 ---
 widget: slider
-interval: 6000
+interval: 8500
 active: true
-height: 400px
+height: 450px
 item:
   - title: Professional Accountant
     align: left
@@ -16,10 +16,10 @@ item:
     align: right
     overlay_img: S2-GoldenGate.JPG
     overlay_filter: 0
-#  - title: Professional Accountant
-#    align: left
-#    overlay_img: Slider 5 - Endor.JPG
-#    overlay_filter: 0
+  - title: Professional Accountant
+    align: left
+    overlay_img: S5-Endor.JPG
+    overlay_filter: 0
 #  - title: Amateur Programmer
 #    align: center
 #    overlay_img: Slider 4 - More Ruins.JPG
