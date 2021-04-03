@@ -34,9 +34,7 @@
 
   <div class="wg-hero dark carousel-item{{if eq $index 0}} active{{end}}" style="{{$style_bg | safeCSS}}">
     <div class="container" style="text-align: {{$item.align | default "left"}};">
-        <h1 class="hero-title">
           {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
-        </h1>
 
         {{ with $item.content }}
         <p class="hero-lead" style="{{if eq $item.align "center"}}margin: 0 auto 0 auto;{{else if eq $item.align "right"}}margin-left: auto; margin-right: 0{{end}}">
