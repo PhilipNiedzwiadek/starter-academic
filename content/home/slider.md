@@ -17,7 +17,7 @@ item:
     overlay_img: S2-GoldenGate.JPG
     overlay_filter: 0
   - title: <h1 class="hero-title-4">Professional Accountant</h1>
-    align: left
+    align: right
     overlay_img: S5-Endor.JPG
     overlay_filter: 0
 #  - title: Amateur Programmer
