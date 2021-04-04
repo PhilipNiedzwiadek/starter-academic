@@ -1,6 +1,6 @@
 ---
 title: First Website Attempt
-summary: Coming soon
+summary: Used limited knowledge of CSS and HTML to build first website
 tags:
 - Web Development
 - HTML
