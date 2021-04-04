@@ -1,18 +1,18 @@
 #slider {
-  
-  .hero-title {
-    color: black;
-  }
-}
 
-#slider {
   .wg-hero {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center; 
-    }
+  }
+  
+  .hero-title {
+    color: black;
+  }
+  
+  .hero-title-1 {
+    letter-spacing: 5px;
+    color: black;
+  }
 }
 
-#hero-title-1 {
- letter-spacing: 5px;
-}
