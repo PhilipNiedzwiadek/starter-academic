@@ -4,7 +4,7 @@ interval: 8500
 active: true
 height: 450px
 item:
-  - title: <h1 class="hero-title">Professional Accountant</h1>
+  - title: <h1 class="hero-title-1">Professional Accountant</h1>
     align: left
     overlay_img: S1-Sedona.JPG
     overlay_filter: 0
