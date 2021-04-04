@@ -1,6 +1,6 @@
 ---
 title: First Website Attempt
-summary: Used limited knowledge of CSS and HTML to build first website
+summary: Used limited knowledge of CSS and HTML to build first website which was then used for web scraping and crawling projects
 tags:
 - Web Development
 - HTML
@@ -11,9 +11,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://philipniedzwiadek.github.io/First-Website-Portfolio/"
 
-#image:
+image:
 #  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+  focal_point: Smart
 
 links:
 #- icon: twitter
