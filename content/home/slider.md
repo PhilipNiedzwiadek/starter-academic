@@ -8,7 +8,7 @@ item:
     align: left
     overlay_img: S1-Sedona.JPG
     overlay_filter: 0
-  - title: <h1 class="hero-title">Amateur Programmer</h1>
+  - title: <h1 class="hero-title-2">Amateur Programmer</h1>
     align: center
     overlay_img: S3-Ruins.JPG
     overlay_filter: 0
