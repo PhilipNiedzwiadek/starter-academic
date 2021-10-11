@@ -16,15 +16,15 @@ item:
     align: right
     overlay_img: S2-GoldenGate.JPG
     overlay_filter: 0
-  - title: <h1 class="hero-title-4">Professional Accountant</h1>
-    align: right
-    overlay_img: S5-Endor.JPG
-    overlay_filter: 0
+#  - title: <h1 class="hero-title-4">Professional Accountant</h1>
+#    align: right
+#    overlay_img: S5-Endor.JPG
+#    overlay_filter: 0
 #  - title: Amateur Programmer
 #    align: center
 #    overlay_img: S4-MoreRuins.JPG
 #    overlay_filter: 0
-  - title: <h1 class="hero-title-6">Problem Solver</h1>
+  - title: <h1 class="hero-title-6">Blockchain Enthusiast</h1>
     align: right
     overlay_img: S6-Canal.jpg
     overlay_filter: 0
