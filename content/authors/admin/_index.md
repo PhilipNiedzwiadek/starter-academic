@@ -15,7 +15,8 @@ organizations:
 interests:
  - Data Analysis & Modeling
  - Financial Performance Optimization
- - Data Visualization and Dashboarding
+ - Data Visualization & Dashboarding
+ - Blockchain & Cryptoassets
 
 # Education to show in About widget
 education:
