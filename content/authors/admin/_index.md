@@ -59,4 +59,4 @@ social:
 highlight_name: false
 ---
 
-A Designated Accountant seeking data driven solutions for operational financial performance optimization with competencies in Excel, SQL and Python. A relentless pursuit of knowledge and operational excellence ignited by a world pandemic.
+A Designated Accountant seeking data driven solutions for operational financial performance optimization with competencies in, but not limited to, Excel, SQL and Python. I'm enthusiastic about the potential for a digital future of money where accounting is a multi-disciplinary field built on blockchain and distributed ledger technology.
