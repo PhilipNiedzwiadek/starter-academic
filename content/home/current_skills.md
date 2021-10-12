@@ -31,9 +31,9 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Performance Management
-- icon: blockchain_logo
-  icon_pack: custom
-  name: Blockchain
+- icon: "blockchain_logo"
+  icon_pack: "custom"
+  name: "Blockchain"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
