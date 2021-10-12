@@ -31,9 +31,9 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Performance Management
-- icon: raspberry-pi
-  icon_pack: fab
-  name: Basic Data Pipelines
+- icon: blockchain_logo
+  icon_pack: custom
+  name: Blockchain
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
