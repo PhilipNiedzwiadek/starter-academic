@@ -32,8 +32,8 @@ feature:
   icon_pack: fab
   name: R
 - icon: ethereum
-  icon_pack: fas
-  name: Ethereum
+  icon_pack: fab
+  name: Solidity
   
 
 # Uncomment to use emoji icons.
