@@ -16,7 +16,7 @@ interests:
  - Data Analysis & Modeling
  - Financial Performance Optimization
  - Data Visualization & Dashboarding
- - Blockchain & Cryptoassets
+ - Blockchain, Cryptoassets & On-chain Analysis
 
 # Education to show in About widget
 education:
