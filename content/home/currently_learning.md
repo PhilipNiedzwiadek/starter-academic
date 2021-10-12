@@ -31,9 +31,9 @@ feature:
 - icon: r-project
   icon_pack: fab
   name: R
-- icon: fist-raised
+- icon: ethereum
   icon_pack: fas
-  name: High-Output MGMT
+  name: Ethereum
   
 
 # Uncomment to use emoji icons.
