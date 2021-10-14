@@ -22,22 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Financial Analyst
+
+  - title: Virtual Chief Financial Officer
+    company: Westboro Photonics
+    company_url: https://wphotonics.com/
+    location: Ottawa, ON
+    date_start: '2021-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include, but are not limited to:
+        
+        * Overseeing and making all adjusting entries and corrections to the bookkeeping records
+        * Preparation and analysis of amortization, prepaid and accrued expense entries
+        * Preparation of monthly financial analysis to determine job profitability, and preparation of internal financial statement packages for owners to analyze variances and forecast discrepanciess
+        * Preparation and subsequent correspondence with the Public Accounting firm regarding fiscal year end preparation
+        * Coordination with owners to prepare an annual budget each fiscal year
+        * Providing ad-hoc accounting and financial advice
+        * Lead the setup of new financial projects, procedures and/or financial reports, when necessary
+
+
+  - title: Senior Financial Analyst / Systems Analyst
     company: The Conference Board of Canada
     company_url: https://www.conferenceboard.ca/
     location: Ottawa, ON
     date_start: '2021-04-01'
     date_end: ''
-    description: Role just started! The intention is to have a greater focus on project revenue management for a specific portolio while also being the lead for the implemention of our new FP&A tool 
+    description: |2-
+        In addition to the duties from my prior position, I was also tasked with:
+        
+        * Creating regular revenue reporting to show profits and losses over each period
+        * Analyzing financial data to find trends and patterns among current and pipeline research contracts to determine where new strategies should be implemented to increase profits
+        * Meeting with department heads and organization executives to plan strategies and brainstorm ideas to manage revenue maximization, expense reduction, and to deliver overall better customer content and experiences
+        * Executing organizational strategies and values regarding daily operations and long-term strategic operations
+        * Leveraging existing data and correspondence with management to create forecasts portraying projected revenues and associated research labour hours
+        * Using my prior public account experience to recognize federal, provincial and local tax and accounting compliance matters
     
   - title: Systems Analyst / Corporate Financial Analyst
     company: The Conference Board of Canada
     company_url: https://www.conferenceboard.ca/
     location: Ottawa, ON
-    date_start: '2021-03-31'
-    date_end: '2019-07-01'
+    date_start: '2019-07-01'
+    date_end: ''
     description: |2-
-        Responsibilities included:
+        Responsibilities include:
         
         * Prepare yearly budget, monthly forecasts and cash flow analyses for the corporate departments then following up monthly with financial reports, variance analyses and a review of KPIs; monthly risk and scenario analyses were included after the COVID-19 outbreak
         * Supporting financial month end and year end audits by validating departments’ monthly closure by creating and reviewing entries (accruals, adjustments and fixed asset depreciation) and preparing account reconciliation on a monthly basis for specific accounts
