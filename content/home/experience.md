@@ -48,7 +48,7 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
     description: |2-
-        In addition to the duties from my prior position, I was also tasked with:
+        In addition to the duties from my prior position, I am also tasked with:
         
         * Creating regular revenue reporting to show profits and losses over each period
         * Analyzing financial data to find trends and patterns among current and pipeline research contracts to determine where new strategies should be implemented to increase profits
