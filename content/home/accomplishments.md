@@ -24,6 +24,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+- certificate_url: https://ca.badgr.com/public/assertions/sv5G15SOROOvgQRPaIAoPw?identity__email=philip@niedzwiadek.ca
+  date_end: ""
+  date_start: "2021-10-01"
+  description: ""
+  organization: CPA Canada
+  organization_url: https://www.cpacanada.ca/en/career-and-professional-development/webinars/trends-issues/technology-and-information-management/blockchain-fundamentals-certificate
+  title: Blockchain Fundamentals Certificate
+  url: ""
+
+
 - certificate_url: uploads/certificates/Analyze Financial Data with Python.pdf
   date_end: ""
   date_start: "2020-12-01"
