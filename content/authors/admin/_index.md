@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Philip Niedzwiadek
-role: Financial Planning & Analysis @
+role: Customer & Digital Analytics @
 
 # Is this the primary user of the site?
 superuser: true
