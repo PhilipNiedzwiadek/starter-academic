@@ -39,9 +39,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-<!--   - icon: github
-    icon_pack: fab
-    link: https://github.com/PhilipNiedzwiadek -->
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/PhilipNiedzwiadek
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/philip-niedzwiadek-a310b082
