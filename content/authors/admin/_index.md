@@ -9,7 +9,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
  - name: The Conference Board of Canada
-   url: https://conferenceboard.ca/
+   url: https://www.conferenceboard.ca/
 
 # Interests to show in About widget
 interests:
