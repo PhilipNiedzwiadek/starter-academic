@@ -19,41 +19,17 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#email: philip.niedzwiadek@gmail.com
+#appointment_url: 'https://calendly.com/philip-niedzwiadek'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    link: 'skype:philip.niedzwiadek_1?call'
+  - icon: linkedin
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: LinkedIn Message Me
+    link: https://linkedin.com/in/philip-niedzwiadek-a310b082
 
 # Site header
 
@@ -81,9 +57,9 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
+  repo_url: Personal-Website-Changes
   content_dir: ''
-  repo_branch: main
+  repo_branch: Personal-Website-Changes
   editable:
     page: false
     post: false
@@ -109,7 +85,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: oval
 publications:
   date_format: January 2006
   citation_style: apa
@@ -151,7 +127,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: Personal-Website-Changes
   local_backend: false
 icon:
   pack:
